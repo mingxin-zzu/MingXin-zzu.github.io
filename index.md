@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/mingxin.jpg" class="floatpic">
+<img src="mingxin.jpg" class="floatpic">
 
 Here is **Mingxin Wu (武明信)**.<br>
 
