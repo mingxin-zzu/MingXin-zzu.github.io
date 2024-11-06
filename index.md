@@ -8,9 +8,14 @@ layout: page
 
 Here is **Mingxin Wu (武明信)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I graduated from Peking University in July 2024 with a Doctor of Science degree.
+ I am currently employed at Zhengzhou University as an Associate Professor. 
+In recent years, my research has focused on intelligent manufacturing and biomimetic intelligent robots. I have published over 10 papers ， such as Research, Advanced Science, Biosensors and Bioelectronics, Soft Robotics, and IEEE Transactions on Robotics, with a total citation count exceeding 490（https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=LLUHaXIAAAAJ）. I have filed for 7 patents, with 4 granted. 
+My research on the interdisciplinary application of 3D printing in medicine has been featured by X-MOL and EFL WeChat public accounts. 
+My work on underwater grasping hands has been reported by Peking University's official WeChat public account, Robot Lecture Hall, and other media outlets. 
+It has been cited by a Science sub-journal and featured in numerous review journals. I have also been interviewed and featured by CCTV's Science and Education Channel and Hunan TV.<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at  mingxinwu@zzu.edu.cn
 
 ---
 
